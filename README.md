@@ -19,7 +19,6 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Mumb
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: lavsharma2016@gmail.com.
 
-<br>
 <p align="center" style="display: flex;justify-content: space-around;">
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=lavsharmaa&show_icons=true&count_private=true&include_all_commits=true" alt="lavsharmaa"/>
 <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lavsharmaa&show_icons=true&locale=en&layout=compact" alt="lavsharmaa" />
