@@ -1,7 +1,6 @@
 ## Hey 👋, I'm [Lav Sharma!](https://github.com/lavsharmaa/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lavsharmaa)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/lavsharmaa)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/lavsharmaa/)
 
@@ -19,3 +18,9 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Mumb
 - 💬 &nbsp; Ask me about anything [here](https://github.com/lavsharmaa/lavsharmaa/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: lavsharma2016@gmail.com.
+
+<br>
+<p align="center" style="display: flex;justify-content: space-around;">
+<img src="https://github-readme-stats.vercel.app/api?username=lavsharmaa&show_icons=true&count_private=true&include_all_commits=true" alt="lavsharmaa" align="left" />
+<img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lavsharmaa&show_icons=true&locale=en&layout=compact" alt="lavsharmaa" />
+</p>
