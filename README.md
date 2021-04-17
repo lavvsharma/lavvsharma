@@ -9,7 +9,7 @@
 
 I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Mumbai University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development, Mobile Application development 🤓.
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/lavsharmaa/lavsharmaa/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/lavsharmaa/lavsharmaa/master/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
