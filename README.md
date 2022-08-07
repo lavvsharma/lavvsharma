@@ -8,7 +8,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=lavsharmaa.lavsharmaa&style=flat-square&color=0088cc)
 
-I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Mumbai University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development, Mobile Application development 🤓.
+I have completed my Bachelors's in Computer Science 🎓 from Mumbai University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development, Mobile Application development 🤓. I am working as a Software Developer at [Cerelabs](https://www.linkedin.com/company/cerelabs/mycompany/)
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/lavsharmaa/lavsharmaa/master/coder.gif" />
 
@@ -16,7 +16,7 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Mumb
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Android, Flutter, Nodejs, <br /> Express, React, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Python, FastAPI, RabbitMQ, <br /> MySQL, Apps Script, React, Javascript.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Starting to post my projects on [Github](https://github.com/lavsharmaa).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/lavsharmaa/lavsharmaa/issues/)! I am happy to help.
